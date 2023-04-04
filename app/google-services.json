@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "1008072204856",
+    "firebase_url": "https://ucc-it-app-default-rtdb.firebaseio.com",
+    "project_id": "ucc-it-app",
+    "storage_bucket": "ucc-it-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008072204856:android:42209aa1f5145698cc7ccd",
+        "android_client_info": {
+          "package_name": "com.example.itappucc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008072204856-13kpgqrq7gpor0l1ed3d0v2f27dk9gi7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYLNjXhaylERsc1KR2xhDHeAueD8EY8U0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008072204856-13kpgqrq7gpor0l1ed3d0v2f27dk9gi7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008072204856:android:0b9671a6a90b7d22cc7ccd",
+        "android_client_info": {
+          "package_name": "com.example.uccitapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008072204856-13kpgqrq7gpor0l1ed3d0v2f27dk9gi7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYLNjXhaylERsc1KR2xhDHeAueD8EY8U0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008072204856-13kpgqrq7gpor0l1ed3d0v2f27dk9gi7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008072204856:android:4862af77a55dfaefcc7ccd",
+        "android_client_info": {
+          "package_name": "com.tahirahearle.courses"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008072204856-13kpgqrq7gpor0l1ed3d0v2f27dk9gi7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYLNjXhaylERsc1KR2xhDHeAueD8EY8U0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008072204856-13kpgqrq7gpor0l1ed3d0v2f27dk9gi7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008072204856:android:1e3ad9af012e8bfdcc7ccd",
+        "android_client_info": {
+          "package_name": "com.tahirahearle.ucc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008072204856-13kpgqrq7gpor0l1ed3d0v2f27dk9gi7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYLNjXhaylERsc1KR2xhDHeAueD8EY8U0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008072204856-13kpgqrq7gpor0l1ed3d0v2f27dk9gi7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
